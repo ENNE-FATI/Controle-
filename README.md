@@ -136,7 +136,7 @@ CREATE TABLE AffecteProjet (
 ```
 
 ## Le diagramme de classe :
-![image](https://github.com/user-attachments/assets/9fee8e6e-e7f9-4022-973b-1290a13f2a34)
+![image](src/Images/Classe.PNG)
 
 
 ## Le diagramme de Use cases :
@@ -145,7 +145,7 @@ CREATE TABLE AffecteProjet (
 ---
 
 ## L'architecture du projet :
-![Architecture](src/Images/Architecture.PNG)
+![Architecture](src/Images/Architecture.png)
 
 ## Technologies utilisées :
 
